@@ -1,5 +1,7 @@
 body {
-    background: #ffa2a2;
+    background-image: url('background.jpg.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
